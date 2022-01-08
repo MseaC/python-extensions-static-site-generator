@@ -1,5 +1,4 @@
-from ssg import hooks
-from ssg import parsers
+from ssg import hooks, parsers
 
 files = []
 
